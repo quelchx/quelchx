@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 My Portfolio + Contact Page <a href='https://quelchx.com'>Full Stack Developer</a>
+- 🌱 <a href='https://quelchx.com'>My Portfolio + Contact Page </a>
 - 🔥 Fun project's I have deployed:
   - <a href='https://one-free-pizza.netlify.app/'>One Free Pizza 🍕</a>
   - <a href='https://the-shirt-shop.netlify.app/'>The Shirt Shop 🛍️</a> 
