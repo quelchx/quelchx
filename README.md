@@ -1,4 +1,6 @@
 ### Hi there 👋
+Full Stack Web Developer
+Internet Applications and Web Development Graduate
 
 - 🌱 <a href='https://quelchx.com'>My Portfolio + Contact Page </a>
 - 👨‍💼 <a href='https://github.com/quelchx/quelchx/blob/main/docs/equelch_resume.pdf'>My Resume</a>
