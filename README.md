@@ -3,6 +3,7 @@ Full Stack Web Developer
 Internet Applications and Web Development Graduate
 
 - 🌱 <a href='https://quelchx.com'>My Portfolio + Contact Page </a>
+- 🔗 <a href='https://www.linkedin.com/in/eric-quelch-768861201/'>Linkedin</a>
 - 👨‍💼 <a href='https://github.com/quelchx/quelchx/blob/main/docs/equelch_resume.pdf'>My Resume</a>
 - 🔥 Fun project's I have deployed:
   - <a href='https://one-free-pizza.netlify.app/'>One Free Pizza 🍕</a>
