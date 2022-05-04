@@ -2,7 +2,7 @@
 Full Stack Web Developer
 Internet Applications and Web Development Graduate
 
-- 🌱 <a href='https://quelchx.netlify.app'>My Portfolio + Contact Page </a>
+- 🌱 <a href='https://quelchx.com'>My Portfolio + Contact Page </a>
 
 - 🔗 <a href='https://www.linkedin.com/in/eric-quelch-768861201/'>Linkedin</a>
 
