@@ -13,6 +13,7 @@ Internet Applications and Web Development Graduate
   - <a href='https://mdote.netlify.app/'>Mdote - Markdown Note Editor 📓</a>
   - <a href='https://one-free-pizza.netlify.app/'>One Free Pizza</a>
   - <a href='https://the-shirt-shop.netlify.app/'>Faux Shirt Shop</a>
+  - <a href='https://marketplace.visualstudio.com/items?itemName=ericquelch.perty'>Perty - VSCode Theme 🕊️ </a>
 
 - Component Packages I have created:
   - <a href='www.npmjs.com/package/vue-writer'>Vue Writer 🎆</a>
