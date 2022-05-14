@@ -9,6 +9,7 @@ Internet Applications and Web Development Graduate
 - 👨‍💼 <a href='https://github.com/quelchx/quelchx/blob/main/docs/equelch_resume.pdf'>My Resume</a>
 
 - 🔥 Fun project's I have deployed:
+- - Dev Meets (Under Construction) 🚧
   - <a href='https://budget-trackr.vercel.app/'>Budget Trackr 💸 </a>
   - <a href='https://mdote.netlify.app/'>Mdote - Markdown Note Editor 📓</a>
   - <a href='https://one-free-pizza.netlify.app/'>One Free Pizza</a>
