@@ -1,5 +1,6 @@
 ### Hi there 👋
 **Full Stack Web Developer**
+
 Internet Applications and Web Development Graduate
 
 Creator of https://swapmeets.xyz
