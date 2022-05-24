@@ -2,6 +2,8 @@
 **Full Stack Web Developer**
 Internet Applications and Web Development Graduate
 
+Creator of https://swapmeets.xyz
+
 🌱 <a href='https://quelchx.com'>My Portfolio + Contact Page </a>
 
 🔗 <a href='https://www.linkedin.com/in/eric-quelch-768861201/'>Linkedin</a>
@@ -9,7 +11,7 @@ Internet Applications and Web Development Graduate
 👨‍💼 <a href='https://github.com/quelchx/quelchx/blob/main/docs/equelch_resume.pdf'>My Resume</a>
 
 🔥 Fun project's I have deployed:
-<!-- - <a href='http://github.com/quelchx/swap-meets'>Swap Meets (Under Construction) 🚧</a> -->
+- <a href='https://swapmeets.xyz'>Swap Meets 🚧</a>
 - <a href='https://budget-trackr.vercel.app/'>Budget Trackr 💸 </a>
 - <a href='https://mdote.netlify.app/'>Mdote - Markdown Note Editor 📓</a>
 - <a href='https://one-free-pizza.netlify.app/'>One Free Pizza</a>
