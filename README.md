@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Full Stack Web Developer**
+**Software Developer**
 
 Internet Applications and Web Development Graduate
 
