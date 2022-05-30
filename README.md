@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 **Software Developer**
 
 Internet Applications and Web Development Graduate
@@ -26,3 +26,4 @@ Creator of https://swapmeets.xyz
 
 
 BTW... Arch Linux User 😆
+ -->
